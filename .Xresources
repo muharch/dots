@@ -1,0 +1,84 @@
+!URxvt.font:	xft:Terminus:pixelsize=15
+!URxvt.font:	xft:Ubuntu Mono:size=15
+!URxvt.font:	xft:Inconsolata Nerd Font:style=Regular
+URxvt.scrollBar: false
+URxvt*font:             xft:DejaVuSansMono Nerd Font Mono:pixelsize=10:antialias=true:hinting=true:style=Book,\
+URxvt*boldfont:         xft:DejaVuSansMono Nerd Font Mono:pixelsize=10:antialias=true:hinting=true:style=Bold,\
+URxvt*italicfont:       xft:DejaVuSansMono Nerd Font Mono:pixelsize=10:antialias=true:hinting=true:style=Oblique,\
+Urxvt*bolditalicfont:   xft:DejaVuSansMono Nerd Font Mono:pixelsize=10:antialias=true:hinting=true:style=Bold Oblique,\
+
+! ! special
+! *.foreground:   #9b9081
+! *.background:   #181b20
+! *.cursorColor:  #9b9081
+
+! ! black
+! *.color0:       #353535
+! *.color8:       #5f5f5f
+
+! ! red
+! *.color1:       #744b40
+! *.color9:       #785850
+
+! ! green
+! *.color2:       #6d6137
+! *.color10:      #6f6749
+
+! ! yellow
+! *.color3:       #765636
+! *.color11:      #776049
+
+! ! blue
+! *.color4:       #61564b
+! *.color12:      #696057
+
+! ! magenta:
+! *.color5:       #6b4a49
+! *.color13:      #6f5a59
+
+! ! cyan
+! *.color6:       #435861
+! *.color14:      #525f66
+
+!! white
+!*.color7:       #b3b3b3
+! .color15:      #cdcdcd
+! !
+
+! special
+*.foreground:   #e0e2e7
+*.background:   #111317
+*.cursorColor:  #e0e2e7
+
+! black
+*.color0:       #111317
+*.color8:       #4cb8b7
+
+! red
+*.color1:       #5faaa9
+*.color9:       #5faaa9
+
+! green
+*.color2:       #6da2f0
+*.color10:      #6da2f0
+
+! yellow
+*.color3:       #3da4a3
+*.color11:      #3da4a3
+
+! blue
+*.color4:       #94b1e8
+*.color12:      #94b1e8
+
+! magenta
+*.color5:       #f0b7ec
+*.color13:      #f0b7ec
+
+! cyan
+*.color6:       #acb3c0
+*.color14:      #91b7f8
+
+! white
+*.color7:       #e0e2e7
+*.color15:      #ac952f
+
